@@ -1,0 +1,175 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\pic24_clockfreq.o
+Folder=Intermediary
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\pic24_configbits.o
+Folder=Intermediary
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File002]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\pic24_util.o
+Folder=Intermediary
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File003]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\pic24_uart.o
+Folder=Intermediary
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File004]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\pic24_serial.o
+Folder=Intermediary
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File005]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\pic24_timer.o
+Folder=Intermediary
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File006]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\pic24_spi.o
+Folder=Intermediary
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File007]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\pic24_adc.o
+Folder=Intermediary
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File008]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\spi.o
+Folder=Intermediary
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File009]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\VDIP.o
+Folder=Intermediary
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File010]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\trap_test.o
+Folder=Intermediary
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -O1
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File011]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\VDIP_TEST.cof
+Folder=Output
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--heap=100 -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[File012]
+Location=C:\Users\Phi\Documents\My Dropbox\Senior Design\Michael\Code\Bringing everything together_Mike\Bringing everything together\Track Timer\VDIP_TEST.hex
+Folder=Output
+DeviceName=PIC24FJ128GA006
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\common\pic24_clockfreq.c|..\common\pic24_configbits.c|..\common\pic24_util.c|..\common\pic24_uart.c|..\common\pic24_serial.c|..\common\pic24_timer.c|..\common\pic24_spi.c|..\common\pic24_adc.c|spi.c|VDIP.c|trap_test.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--heap=100 -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[TOOL_LOC_STAMPS]
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files (x86)\Microchip\mplabc30\v3.25\bin\pic30-ld.exe
