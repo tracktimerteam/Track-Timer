@@ -47,12 +47,32 @@
  * @brief Initialize SPI and then Reset the VDIP
  */
 //**********************************************************
+///////////////////////////////A/////////////////////////////
 void VDIP_Init(void)
 {
     VDIP_DEBUG_OUT("VDIP_Init: Started.");
     CONFIG_RESET();
 
     SPI_Init();
+
+    VDIP_Reset();
+
+    // Syncs VDIP with PIC
+    VDIP_Sync();
+
+    // Put vdip in short command mode
+    VDIP_SCS();
+
+    VDIP_DEBUG_OUT("VDIP_Init: Finished.");
+}
+
+///////////////////////////////B/////////////////////////////
+void BVDIP_Init(void)
+{
+    BVDIP_DEBUG_OUT("VDIP_Init: Started.");
+    CONFIG_RESET();
+
+    BSPI_Init();
 
     VDIP_Reset();
 

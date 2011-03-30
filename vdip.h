@@ -90,3 +90,34 @@ void    VDIP_CleanupDirList(uint8 **);
 void VDIP_PrintListDir(void);
 
 #endif // VDIP_H
+
+
+
+/***********************************************************
+ * Function Definitions
+ **********************************************************/
+void   BVDIP_Init(void);
+void   BVDIP_Reset(void);
+void   BVDIP_Sync_E(void);
+uint8  BVDIP_Sync(void);
+uint8  BVDIP_SCS(void);
+
+void   BVDIP_WriteFile (const uint8 *,
+                       const uint8 *);
+void   BVDIP_WriteFileN(const uint8 *,
+                       const uint8 *,
+                       uint32);
+
+uint8* BVDIP_ReadFile(const uint8 *);
+void   BVDIP_DeleteFile(const uint8 *);
+
+uint8  BVDIP_FileExists(const uint8 *);
+uint32 BVDIP_FileSize(const uint8 *);
+uint32 BVDIP_DirItemCount(void);
+
+uint8** BVDIP_ListDir(void);
+void    BVDIP_CleanupDirList(uint8 **);
+
+void BVDIP_PrintListDir(void);
+
+#endif // VDIP_H

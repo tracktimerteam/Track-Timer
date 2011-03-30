@@ -172,6 +172,7 @@ void SPI_Init(void)
 
  SPI2STATbits.SPIEN = 1;  			//enable SPI mode
  VDIP1_A_DISABLE();      			//disable the VDIP1_A
+ VDIP1_B_DISABLE();					//M.N.
 }
 
 //**********************************************************
